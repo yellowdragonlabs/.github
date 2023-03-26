@@ -1,7 +1,7 @@
 Yellow Dragon
 =============
 
-<img src="dragon.png">
+<img src="profile/dragon.png">
 
 The Yellow Dragon is said to have emerged from the River Luo and be the legendary origin of the Chinese writing system.
 
